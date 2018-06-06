@@ -1,0 +1,1 @@
+console.log("satir 1"),console.log("satir 10"),console.log("other js dosyasi"),console.log("style.js");
